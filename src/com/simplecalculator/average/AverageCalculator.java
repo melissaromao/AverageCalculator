@@ -1,3 +1,4 @@
+//pacote de classe
 package com.simplecalculator.average;
 
 //importando classe fundamental para leitura de entradas de dados
